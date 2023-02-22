@@ -1,5 +1,7 @@
 # BASH Install Script for GLPI with MYSQL on Ubuntu 20.04 
 
+For more Info's : https://glpi-project.org/ 
+
 Testet on Ubuntu 20.04 \
 create a File and copy the input. Start the script  
 
