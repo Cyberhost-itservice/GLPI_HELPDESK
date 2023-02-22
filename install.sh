@@ -3,8 +3,8 @@ apt-get install -y apache2 php php-curl php-gd php-intl php-ldap php-mbstring ph
 
 # Download and extract GLPI
 cd /var/www/html
-wget https://github.com/glpi-project/glpi/releases/download/9.5.6/glpi-9.5.6.tgz
-tar -xzf glpi-9.5.6.tgz
+wget https://github.com/glpi-project/glpi/releases/download/10.0.6/glpi-10.0.6.tgz
+tar -xzf glpi-10.0.6.tgz
 mv glpi /var/www/html/
 chown -R www-data:www-data /var/www/html/glpi
 chmod -R 755 /var/www/html/glpi
