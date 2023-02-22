@@ -7,7 +7,7 @@ create a File and copy the input. Start the script
 
 go to http://yourip/glpi and follow the Install Guide 
 
-This Script install
+This Script install \
 PHP 7.4 \
 Mysql \
 GLPI 10.0.6 
