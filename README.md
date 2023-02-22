@@ -1,10 +1,11 @@
 # BASH Install Script for GLPI with MYSQL on Ubuntu 20.04 
 
-create a File and copy the input. Start the script  \
+Testet on Ubuntu 20.04 \
+create a File and copy the input. Start the script  
 
-go to http://yourip/glpi and follow the Install Guide \
+go to http://yourip/glpi and follow the Install Guide 
 
 This Script install
-PHP 7.4 
-Mysql
+PHP 7.4 \
+Mysql \
 GLPI 10.0.6 
