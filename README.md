@@ -9,3 +9,9 @@ This Script install
 PHP 7.4 \
 Mysql \
 GLPI 10.0.6 
+
+
+for info this standart for production mode please change this \
+USER: GLPI \
+PASS: GLPI \
+DB: GLPIDB / localhost ) 
